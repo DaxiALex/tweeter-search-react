@@ -1,0 +1,57 @@
+.dark, html {
+    background: #1b1d1e
+}
+
+.search-form {
+    margin-top: 30px;
+    padding: 25px;
+    background: white;
+    border-radius: 15px;
+}
+
+.search-history-element {
+    cursor: pointer;
+    color: #2e6da4;
+}
+
+.search-history-element:hover {
+    color: #5bc0de;
+}
+
+#tweet-list {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.tweet {
+    text-align: left;
+    padding: 12px;
+    margin: 14px;
+    background: white;
+    border-radius: 15px;
+}
+
+.tweet-img-cell {
+    width: 160px
+}
+
+.tweet-data-cell {
+    vertical-align: top;
+    padding-right:  10px;
+}
+
+.tweet-img {
+    border-radius: 15px;
+    height: 120px;
+    max-width: 120px;
+}
+
+.tweet-data-container{
+    padding-top: 8px;
+}
+
+.tweet-text {
+    padding-top: 10px;
+}
+
+
